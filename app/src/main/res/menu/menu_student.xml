@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/ic_baseline_home_24">
+    </item>
+    <item
+        android:id="@+id/noticeboard"
+        android:title="noticeboard"
+        android:icon="@drawable/ic_baseline_event_note_24">
+    </item>
+    <item
+        android:id="@+id/chat"
+        android:title="chat"
+        android:icon="@drawable/ic_baseline_chat_24">
+    </item>
+    <item
+        android:id="@+id/timetable"
+        android:title="timetable"
+        android:icon="@drawable/ic_baseline_table_view_24">
+    </item>
+    <item
+        android:id="@+id/person"
+        android:title="Person"
+        android:icon="@drawable/ic_baseline_person_24">
+    </item>
+</menu>

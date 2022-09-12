@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Student_Read"
+        android:title="Student Data"
+        android:icon="@drawable/ic_baseline_home_24">
+    </item>
+    <item
+        android:id="@+id/Student_Insert"
+        android:title="Add Student"
+        android:icon="@drawable/ic_baseline_person_add_24">
+    </item>
+    <item
+        android:id="@+id/Student_Update"
+        android:title="Update Student"
+        android:icon="@drawable/ic_baseline_update_24">
+    </item>
+    <item
+        android:id="@+id/Student_Delete"
+        android:title="Delete Student"
+        android:icon="@drawable/ic_baseline_delete_24">
+    </item>
+</menu>

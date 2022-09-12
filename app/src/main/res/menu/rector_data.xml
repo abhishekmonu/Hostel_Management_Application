@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Rector_Read"
+        android:title="Rector Data"
+        android:icon="@drawable/ic_baseline_home_24">
+    </item>
+    <item
+        android:id="@+id/Rector_Insert"
+        android:title="Add Rector"
+        android:icon="@drawable/ic_baseline_person_add_24">
+    </item>
+    <item
+        android:id="@+id/Rector_Update"
+        android:title="Update Rector"
+        android:icon="@drawable/ic_baseline_update_24">
+    </item>
+    <item
+        android:id="@+id/Rector_Delete"
+        android:title="Delete Rector"
+        android:icon="@drawable/ic_baseline_delete_24">
+    </item>
+</menu>
